@@ -13,3 +13,8 @@
 
 ## Homework 4
 - [In this homework](Homework_4.html), we are asked to come up with two representations to deal with Multiple Instance Learning problem. After finding two representation, we are also asked to apply these into two different models and get Cross Validation score on training data. For the first represetation, I created two arrays which is basically mean of the bag +- the standard deviation of the bag. Hence, our feature vector represented the sample statistics of the bag. For the second model, I found the most further points in the bag and concatanated them to use as feature vector. The related dataset can be found on https://archive.ics.uci.edu/ml/datasets/Musk+(Version+1) . 
+
+## Project 
+
+- [In this project](ProjectReport.html), our main task is to build a classification model to predict the gender information with the given data provided by Trendyol.
+- Related codes can be reach from [here](ProjectReport.jpynb)
